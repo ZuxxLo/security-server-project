@@ -1,4 +1,4 @@
-# Reverse shell & Ransomware server and clients using Dart
+# security-server-project
 This project demonstrates a proof-of-concept implementation of a Reverse Shell and Ransomware Server and Clients using Dart. The purpose of this project is educational, showcasing how reverse shells and ransomware work in a controlled environment. It is not intended for malicious use.
 
 # Features
